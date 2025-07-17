@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Automated Data Cleaning Pipeline
 
 This project provides a fully automated pipeline for cleaning, transforming, and analyzing COVID-19 data using Python. It includes integration with Power BI for advanced visualization.
@@ -25,3 +26,6 @@ The dataset used is based on:
 - **Johns Hopkins COVID‑19 Time Series** COVID-19 dataset.
 - Last update included: `09/03/2023`.
 
+=======
+# Automated-Data-Cleaning-Pipeline
+>>>>>>> a24dddc329a93e08574647e63c15ca07a93959c2
